@@ -1,2 +1,4 @@
 # hello-world
-A test repo
+
+Hey guys,
+trying to get comfortable with github!!
